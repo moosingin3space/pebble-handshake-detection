@@ -1,0 +1,20 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "moosingin3space@gmail.com",
+    "longName": "Pebble Handshake Detection",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "2",
+    "shortName": "Pebble Handshake Detection",
+    "uuid": "64a47dd6-27d5-4f77-af07-efc958c70660",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
